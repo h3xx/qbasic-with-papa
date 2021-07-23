@@ -2,7 +2,25 @@ This is a snapshot-in-time of some QBasic programs I wrote with my
 grandfather that I pulled off his computer.
 
 Most of the programs I wrote have my logo on the exit screen. I was
-12-14 at the time.
+12-14 at the time. Here it is recreated using Unicode box-drawing characters:
+
+```
+╔╦═════════╦═════════╦╗
+║╠═╦═══════╩═══════╦═╣║
+║║╔╩═══════╤═══════╩╗║║
+║╠╣  ┌─────┴─────┐  ╠╣║
+║║║┌─┘           └─┐║║║
+║║║│   XENOPHOBE   │║║║
+║║║│  ENTERPRISES  │║║║
+╠╣╟┤      INC.     ├╢╠╣
+║║║│  E-Mail me at │║║║
+║║║│   XENOPHOBEI  │║║║
+║║║└─┐  @AOL.COM ┌─┘║║║
+║╠╣  └─────┬─────┘  ╠╣║
+║║╚╦═══════╧═══════╦╝║║
+║╠═╩═══════╦═══════╩═╣║
+╚╩═════════╩═════════╩╝
+```
 
 ```
  Volume in drive C is CDRIVE
